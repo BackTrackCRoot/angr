@@ -103,5 +103,4 @@ class TestTypehoon(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    # unittest.main()
-    TestTypehoon().test_type_inference_basic_case_1()
+    unittest.main()
