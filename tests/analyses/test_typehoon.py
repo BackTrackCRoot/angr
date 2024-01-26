@@ -13,7 +13,6 @@ from angr.analyses.typehoon.typevars import (
     FuncIn,
     FuncOut,
     Load,
-    Store,
     HasField,
 )
 from angr.analyses.typehoon.typeconsts import Int32
